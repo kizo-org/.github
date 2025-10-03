@@ -10,9 +10,6 @@
   <p align="center">
     Your platform for amazing events and workshops!
     <br />
-    <a href="https://github.com/kizo-org"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://kizo-app.vercel.app">View Demo</a>
     &middot;
     <a href="https://github.com/kizo-org/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
