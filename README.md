@@ -278,7 +278,7 @@ Don't forget to give the project a star! Thanks again!
 ### Top contributors:
 
 <a href="https://github.com/kizo-org/[project-name]/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kizo-org/[project-name]" alt="contrib.rocks image" />
+  <img src="https://contrib.rocks/image?repo=kizo-org/kizoapp" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
