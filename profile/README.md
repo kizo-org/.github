@@ -21,8 +21,6 @@
 
 ## About The Project
 
-![KIZO Event Platform Screenshot](/images/screenshot.png)
-
 KIZO is a comprehensive event management platform designed to simplify the process of creating, organizing, and attending events. Whether you're organizing workshops, conferences, meetups, or social gatherings, KIZO provides all the tools you need in one place.
 
 Here's why KIZO stands out:
